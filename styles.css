@@ -50,6 +50,9 @@ body {
   justify-content: center;
   align-items: center;
 }
+.squared-container {
+  border-radius: 15px;
+}
 .squared-container > p {
   color: var(--Pale-Blue);
   text-align: center;

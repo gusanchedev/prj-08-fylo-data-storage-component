@@ -21,7 +21,7 @@ body {
   align-items: center;
 }
 .container {
-  margin-top: 50px;
+  margin-top: 100px;
 }
 .container > div {
   background-color: var(--Dark-Blue);

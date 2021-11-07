@@ -19,7 +19,7 @@ body {
   align-items: center;
 }
 .container {
-  margin: 50px 0 50px 0;
+  margin-top: 50px;
 }
 .container > div {
   background-color: var(--Dark-Blue);
